@@ -24,6 +24,7 @@ Install the dependencies:
     When the task is finished, the text turns green, otherwise yellow.
     
 <h2>Home Screen </h2>
+
 ![](/readMe/home.png)
 
 
