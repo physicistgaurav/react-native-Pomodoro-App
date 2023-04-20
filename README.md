@@ -10,21 +10,10 @@ To get started with the Pomodoro-App-GRZ, you can clone this repository and run 
 
 git clone https://github.com/physicistgaurav/react-native-Pomodoro-App
 
-Navigate to the project directory:
-
-cd Pomodoro-App-GRZ
 
 Install the dependencies:
-
-npm install
-
-Run the app on an Android or iOS emulator:
-
-npm run android
-or
-npm run ios
-
-    Alternatively, you can also run the app on your physical device by following the instructions provided in the official React Native documentation.
+    npm install
+    
 
 <h2>Features</h2>
 
