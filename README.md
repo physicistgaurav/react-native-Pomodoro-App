@@ -33,7 +33,20 @@ npm run ios
     Cancel the process.
     Visual progress indicator to show the countdown.
     When the task is finished, the text turns green, otherwise yellow.
+    
+<h2>Home Screen </h2>
 ![](/readMe/home.png)
+
+
+<h2>Timer CountDown Screen </h2>
+
+![](/readMe/time.png)
+
+![](/readMe/Progress.jpg)
+
+<h2>Task Complete/Incomplete Tracker</h2>
+
+![](/readMe/result.jpg)
 
 <h2>Contributing</h2>
 
