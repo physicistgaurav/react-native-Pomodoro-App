@@ -12,24 +12,17 @@ git clone https://github.com/physicistgaurav/react-native-Pomodoro-App
 
 Navigate to the project directory:
 
-bash
-
 cd Pomodoro-App-GRZ
 
 Install the dependencies:
-
 
 npm install
 
 Run the app on an Android or iOS emulator:
 
 npm run android
-
 or
-
-bash
-
-    npm run ios
+npm run ios
 
     Alternatively, you can also run the app on your physical device by following the instructions provided in the official React Native documentation.
 
@@ -40,8 +33,7 @@ bash
     Cancel the process.
     Visual progress indicator to show the countdown.
     When the task is finished, the text turns green, otherwise yellow.
-
-[!](./readMe/home.png)
+![](/readMe/home.png)
 
 <h2>Contributing</h2>
 
